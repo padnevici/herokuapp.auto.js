@@ -1,0 +1,19 @@
+{
+  "name": "herokuapp.auto.js",
+  "version": "1.0.0",
+  "description": "Test framework for herokupp made in Java Script",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/padnevici/herokuapp.auto.js.git"
+  },
+  "author": "Andrei padnevici",
+  "license": "ISC",
+  "devDependencies": {
+    "cucumber": "^5.1.0",
+    "selenium-cucumber-js": "^1.6.2"
+  }
+}
